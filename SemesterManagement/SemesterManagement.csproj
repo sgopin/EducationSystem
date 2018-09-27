@@ -12,6 +12,7 @@
     <Folder Include="Views\Shared\" />
     <Folder Include="Configurations\" />
     <Folder Include="Models\" />
+    <Folder Include="Models\Enums\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,7 +25,7 @@
     <Content Remove="config,development %28copy%29.json" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="config.development.json" />
-    <None Include="config.json" />
+    <None Remove="config.json" />
+    <None Remove="config.development.json" />
   </ItemGroup>
 </Project>
