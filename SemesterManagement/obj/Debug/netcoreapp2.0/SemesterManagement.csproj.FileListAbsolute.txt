@@ -1,0 +1,11 @@
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/bin/Debug/netcoreapp2.0/SemesterManagement.deps.json
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/bin/Debug/netcoreapp2.0/SemesterManagement.runtimeconfig.json
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/bin/Debug/netcoreapp2.0/SemesterManagement.runtimeconfig.dev.json
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/bin/Debug/netcoreapp2.0/SemesterManagement.dll
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/bin/Debug/netcoreapp2.0/SemesterManagement.pdb
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.csprojResolveAssemblyReference.cache
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.csproj.CoreCompileInputs.cache
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.AssemblyInfoInputs.cache
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.AssemblyInfo.cs
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.dll
+/Users/ShayaGopin/Projects/EducationSystem/SemesterManagement/obj/Debug/netcoreapp2.0/SemesterManagement.pdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8F55AAE2-BC1A-4985-8983-F1886189DD0A}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.SemesterManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="config.json">
+    <Files>
+      <File FileName="Startup.cs" Line="39" Column="109" />
+      <File FileName="Controllers/HomeController.cs" Line="16" Column="22" />
+      <File FileName="Views/Home/Index.cshtml" Line="8" Column="37" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="9" Column="51" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="config.development.json" Line="3" Column="30" />
+      <File FileName="Configurations/DevelopmentSettings.cs" Line="6" Column="58" />
+      <File FileName="Models/SMDBContext.cs" Line="1" Column="1" />
+      <File FileName="config.json" Line="5" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
