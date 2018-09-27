@@ -1,8 +1,0 @@
-﻿{
-  "DevelopmentSettings":  {
-    "EnableDeveloperException": false
-  },
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;userid=root;pwd=gopinrun;port=3306;Database=SemesterManagement;"
-  }
-}
