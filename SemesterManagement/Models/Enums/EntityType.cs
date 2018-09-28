@@ -3,8 +3,8 @@ namespace SemesterManagement.Models.Enums
 {
     public enum EntityType
     {
-        Institute = 1,
-        Semester = 2,
-        Group = 4
+        Institute = 0,
+        Semester = 1,
+        Group = 2
     }
 }
