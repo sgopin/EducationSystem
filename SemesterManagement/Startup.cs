@@ -38,17 +38,18 @@ namespace SemesterManagement
 
             services.AddDbContext<SMDBContext>(options =>
             {
-
                 var connectionString = configuration.GetConnectionString("DefaultConnection");
                 options.UseMySql(connectionString);
             });
-
+            
             services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, DevelopmentSettings devSettings)
         {
+            app.UseStatusCodePagesWithReExecute("/Error/{0}");
+
             if (devSettings.EnableDeveloperException)
             {
                 app.UseDeveloperExceptionPage();

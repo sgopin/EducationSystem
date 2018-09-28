@@ -15,5 +15,13 @@ namespace SemesterManagement.Controllers
         {
             return View();
         }
+
+        // Error Handling
+        [Route("Error/{code:int}")]
+        public IActionResult Error(int code)
+        {
+            if (code == 404) return View("Error404");
+            return View();
+        }
     }
 }
